@@ -1,6 +1,5 @@
 ## **<h1 align="center"> Multi-Tenant SaaS Platform </h1>**
 
-<h1 align="center"> Multi-Tenant SaaS Platform </h1>
 <p align="center">
   <img alt="SaaS Platform" title="SaaS Platform" src="https://via.placeholder.com/500x200">
 </p>
